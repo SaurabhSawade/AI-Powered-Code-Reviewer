@@ -54,4 +54,3 @@ An intelligent, AI-integrated web application that reviews source code using Goo
 
 ---
 
-## 📁 Project Structure
